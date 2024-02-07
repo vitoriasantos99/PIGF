@@ -1,0 +1,68 @@
+*{
+    margin: 0;
+    border: 0;
+    padding: 0;
+    background-color: #d4e2F3;
+}
+
+.opcao, img{
+    align-items: top;
+    display: flex;
+    padding: 5px;
+}
+.texto1{
+    align-items: top;
+    display: flex;
+    padding: 5px;
+}
+.produtos{
+    align-items: center;
+    display: flex;
+}
+h1{
+    text-align: center;
+}
+.todos{
+    text-align: right;
+}
+.sobre{
+    align-items: center;
+    display: flex;
+    max-width: 70%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+.pesquisa{
+    align-items: center;
+    display: flex;
+    max-width: 70%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+.news{
+    align-items: center;
+    display: flex;
+    max-width: 50%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.news2{
+    text-align: center;
+
+}
+.email{
+    background-color: #d4e2F3; 
+    border:4px solid black; 
+    padding: 5px;
+    text-align: justify;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.menu{
+    align-items: center;
+    text-align: center;
+    display: flex;
+}
+
